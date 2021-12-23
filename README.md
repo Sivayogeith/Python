@@ -21,7 +21,6 @@ Run the file **measure.py** by the command
 
 > python measure.py
 
-It will ask some User input Enter it
 It will ask some User input:
 
 > Please Enter The First Num: (Ex: 200, 4560)
@@ -39,6 +38,33 @@ And Boom!
 It gives you Answer
 
 _Note : It only works like : 1235 L to mL not 1235 L to Kg ( It was not in my math syllabus )_
+
+## Measurement Add
+
+To Add, Sub, Mul, Div Measurements
+
+We need **operation_measure.py**
+
+**For Python Version 3**
+
+> python3 operation_measure.py
+
+**For Python Version 2 and below**
+
+> python operation_measure.py
+
+It will ask some User input:
+
+> Please Enter The First Num: (Ex: 200, 4560)
+
+> Please Enter The Second Num: (Ex: 1425, 1235 )
+
+> Please Enter The Operation: (Ex: add, sub, mul, div)
+
+Enter it
+
+And _Again_ Boom
+It gives you the answer!
 
 ## Measurement Add
 
